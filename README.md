@@ -1,4 +1,3 @@
-this is a basic excercise for design transformation.
+this is a basic excercise for responsive.
 using:
 HTML
-CSS# four-cards-neumorphic
